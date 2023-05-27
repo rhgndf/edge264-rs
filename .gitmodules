@@ -1,0 +1,3 @@
+[submodule "edge264"]
+	path = edge264
+	url = https://github.com/tvlabs/edge264
